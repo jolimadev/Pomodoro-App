@@ -1,3 +1,12 @@
+Hello Folk!
+
+<h2> I made this Pomodoro app, because is my favorite tool to study & work</h2>
+ <h3> Feel free to give me a feedback and use the code, <br> 
+i will put the starter files right below with the credits of the tutorial where i get the steps.</h3>
+
+
+------------------------------------------------------------------------------------------
+
 # Pomodoro Timer Starter files
 
 Here are the starter files for the Pomodoro timer tutorial which can be found
